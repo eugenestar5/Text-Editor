@@ -4,7 +4,7 @@
 
 It is a text editor application that allows users to used to write files just like they will use note++. It allow users to install the editor on their local to use offline and able to upload or use it online when the user get reconnected to the internet.
 
-This app is delployed to Heroku. Use this link to access the application: [The Text Editor](https://salty-island-15837-8a9d8a218812.herokuapp.com/)
+This app is delployed to Heroku. Use this link to access the application: [The Text Editor](https://evening-headland-26545-070e876d0573.herokuapp.com/)
 
 
 ## Table of Contents
